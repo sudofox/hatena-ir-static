@@ -1,0 +1,511 @@
+﻿eolparts_ir_material_for_fiscal_ym_14(
+{
+	"header":[
+		{
+			"customer_code":"3930",
+			"parts_id":"14",
+			"parts_name":"決算説明資料",
+			"category":"ir_material_for_fiscal_ym",
+			"language":"ja",
+			"note":"",
+			"template_item":"",
+			"type_id":"",
+			"folders":"",
+			"data_type":"",
+			"from_date":"",
+			"to_date":"",
+			"period_yuho":"",
+			"window":"True",
+			"new_type":"num",
+			"new_count":"0",
+			"announce_display":"",
+			"ir_display":"True",
+			"tanshin_display":"False",
+			"yuho_display":"False",
+			"yuho_teisei_display":"False",
+			"rinpo_display":"False",
+			"ic_report_display":"False",
+			"date_format":"56",
+			"code":"",
+			"keyword":"",
+			"ir_select":"ir_material_for_fiscal_ym",
+			"kind":"",
+			"pdf_type":"True",
+			"html_type":"False",
+			"new_release_output_type":"",
+			"new_release_batch_output_url":"False",
+			"callback":"eolparts_ir_material_for_fiscal_ym_14"
+		}
+	],
+	"group_count":"7",
+	"group":[
+		{
+			"item_count":"4",
+			"fiscal_ym":"202207",
+			"item":[
+				{
+					"date":"2022/09/16 10:30:00",
+					"format_date":"2022/09/16",
+					"file_size":"163",
+					"link":"https://ssl4.eir-parts.net/doc/3930/ir_material_for_fiscal_ym/124501/00.pdf",
+					"new_target":"_blank",
+					"title":"2022年７月期 通期決算説明会の質疑応答（要旨）について",
+					"comment":"",
+					"type":"pdf",
+					"quarter":"9",
+					"thumbnail_link":"",
+					"text":"",
+					"page_num":"2",
+					"attachment_count":"0",
+					"attachment":[
+					]
+				},
+				{
+					"date":"2022/09/13 15:30:00",
+					"format_date":"2022/09/13",
+					"file_size":"2,538",
+					"link":"https://ssl4.eir-parts.net/doc/3930/ir_material_for_fiscal_ym/124500/00.pdf",
+					"new_target":"_blank",
+					"title":"2022年７月期　通期決算説明会資料",
+					"comment":"",
+					"type":"pdf",
+					"quarter":"4",
+					"thumbnail_link":"",
+					"text":"",
+					"page_num":"40",
+					"attachment_count":"0",
+					"attachment":[
+					]
+				},
+				{
+					"date":"2022/03/02 12:00:00",
+					"format_date":"2022/03/02",
+					"file_size":"163",
+					"link":"https://ssl4.eir-parts.net/doc/3930/ir_material_for_fiscal_ym/114507/00.pdf",
+					"new_target":"_blank",
+					"title":"2022年７月期　第２四半期決算説明会 質疑応答(要旨)",
+					"comment":"",
+					"type":"pdf",
+					"quarter":"9",
+					"thumbnail_link":"",
+					"text":"",
+					"page_num":"2",
+					"attachment_count":"0",
+					"attachment":[
+					]
+				},
+				{
+					"date":"2022/02/28 15:30:00",
+					"format_date":"2022/02/28",
+					"file_size":"2,797",
+					"link":"https://ssl4.eir-parts.net/doc/3930/ir_material_for_fiscal_ym/114016/00.pdf",
+					"new_target":"_blank",
+					"title":"2022年７月期　第２四半期決算説明会資料",
+					"comment":"",
+					"type":"pdf",
+					"quarter":"2",
+					"thumbnail_link":"",
+					"text":"",
+					"page_num":"42",
+					"attachment_count":"0",
+					"attachment":[
+					]
+				}
+			]
+		},
+		{
+			"item_count":"3",
+			"fiscal_ym":"202107",
+			"item":[
+				{
+					"date":"2021/09/15 15:30:00",
+					"format_date":"2021/09/15",
+					"file_size":"143",
+					"link":"https://ssl4.eir-parts.net/doc/3930/ir_material_for_fiscal_ym/107681/00.pdf",
+					"new_target":"_blank",
+					"title":"2021年7月期　通期決算説明会 質疑応答(要旨)",
+					"comment":"",
+					"type":"pdf",
+					"quarter":"9",
+					"thumbnail_link":"",
+					"text":"",
+					"page_num":"2",
+					"attachment_count":"0",
+					"attachment":[
+					]
+				},
+				{
+					"date":"2021/09/10 15:30:00",
+					"format_date":"2021/09/10",
+					"file_size":"2,418",
+					"link":"https://ssl4.eir-parts.net/doc/3930/ir_material_for_fiscal_ym/106320/00.pdf",
+					"new_target":"_blank",
+					"title":"2021年7月期　通期決算説明会資料",
+					"comment":"",
+					"type":"pdf",
+					"quarter":"4",
+					"thumbnail_link":"",
+					"text":"",
+					"page_num":"38",
+					"attachment_count":"0",
+					"attachment":[
+					]
+				},
+				{
+					"date":"2021/02/26 15:30:00",
+					"format_date":"2021/02/26",
+					"file_size":"2,597",
+					"link":"https://ssl4.eir-parts.net/doc/3930/ir_material_for_fiscal_ym/96031/00.pdf",
+					"new_target":"_blank",
+					"title":"2021年7月期　第2四半期決算説明会資料",
+					"comment":"",
+					"type":"pdf",
+					"quarter":"2",
+					"thumbnail_link":"",
+					"text":"",
+					"page_num":"49",
+					"attachment_count":"0",
+					"attachment":[
+					]
+				}
+			]
+		},
+		{
+			"item_count":"4",
+			"fiscal_ym":"202007",
+			"item":[
+				{
+					"date":"2020/09/16 15:30:00",
+					"format_date":"2020/09/16",
+					"file_size":"170",
+					"link":"https://ssl4.eir-parts.net/doc/3930/ir_material_for_fiscal_ym/86520/00.pdf",
+					"new_target":"_blank",
+					"title":"2020年7月期　通期決算説明会 質疑応答(要旨)",
+					"comment":"",
+					"type":"pdf",
+					"quarter":"4",
+					"thumbnail_link":"",
+					"text":"",
+					"page_num":"2",
+					"attachment_count":"0",
+					"attachment":[
+					]
+				},
+				{
+					"date":"2020/09/11 15:30:00",
+					"format_date":"2020/09/11",
+					"file_size":"3,349",
+					"link":"https://ssl4.eir-parts.net/doc/3930/ir_material_for_fiscal_ym/86375/00.pdf",
+					"new_target":"_blank",
+					"title":"2020年7月期　通期決算説明会資料",
+					"comment":"",
+					"type":"pdf",
+					"quarter":"4",
+					"thumbnail_link":"",
+					"text":"",
+					"page_num":"51",
+					"attachment_count":"0",
+					"attachment":[
+					]
+				},
+				{
+					"date":"2020/03/25 15:30:00",
+					"format_date":"2020/03/25",
+					"file_size":"238",
+					"link":"https://ssl4.eir-parts.net/doc/3930/ir_material_for_fiscal_ym/78938/00.pdf",
+					"new_target":"_blank",
+					"title":"2020年７月期　第２四半期決算説明の補足について",
+					"comment":"",
+					"type":"pdf",
+					"quarter":"9",
+					"thumbnail_link":"",
+					"text":"",
+					"page_num":"4",
+					"attachment_count":"0",
+					"attachment":[
+					]
+				},
+				{
+					"date":"2020/03/25 15:30:00",
+					"format_date":"2020/03/25",
+					"file_size":"3,384",
+					"link":"https://ssl4.eir-parts.net/doc/3930/ir_material_for_fiscal_ym/78937/00.pdf",
+					"new_target":"_blank",
+					"title":"2020年7月期　第2四半期決算説明会資料",
+					"comment":"",
+					"type":"pdf",
+					"quarter":"2",
+					"thumbnail_link":"",
+					"text":"",
+					"page_num":"51",
+					"attachment_count":"0",
+					"attachment":[
+					]
+				}
+			]
+		},
+		{
+			"item_count":"4",
+			"fiscal_ym":"201907",
+			"item":[
+				{
+					"date":"2019/10/02 15:00:00",
+					"format_date":"2019/10/02",
+					"file_size":"35",
+					"link":"https://ssl4.eir-parts.net/doc/3930/ir_material_for_fiscal_ym/70847/00.pdf",
+					"new_target":"_blank",
+					"title":"2019年7月期　通期決算説明会 質疑応答(要旨)",
+					"comment":"",
+					"type":"pdf",
+					"quarter":"4",
+					"thumbnail_link":"",
+					"text":"",
+					"page_num":"3",
+					"attachment_count":"0",
+					"attachment":[
+					]
+				},
+				{
+					"date":"2019/09/25 15:30:00",
+					"format_date":"2019/09/25",
+					"file_size":"3,602",
+					"link":"https://ssl4.eir-parts.net/doc/3930/ir_material_for_fiscal_ym/69684/00.pdf",
+					"new_target":"_blank",
+					"title":"2019年7月期　通期決算説明会資料",
+					"comment":"",
+					"type":"pdf",
+					"quarter":"4",
+					"thumbnail_link":"",
+					"text":"",
+					"page_num":"54",
+					"attachment_count":"0",
+					"attachment":[
+					]
+				},
+				{
+					"date":"2019/03/26 15:00:00",
+					"format_date":"2019/03/26",
+					"file_size":"32",
+					"link":"https://ssl4.eir-parts.net/doc/3930/ir_material_for_fiscal_ym/62797/00.pdf",
+					"new_target":"_blank",
+					"title":"2019年7月期　第2四半期決算説明会 質疑応答(要旨)",
+					"comment":"",
+					"type":"pdf",
+					"quarter":"2",
+					"thumbnail_link":"",
+					"text":"",
+					"page_num":"2",
+					"attachment_count":"0",
+					"attachment":[
+					]
+				},
+				{
+					"date":"2019/03/18 15:30:00",
+					"format_date":"2019/03/18",
+					"file_size":"2,891",
+					"link":"https://ssl4.eir-parts.net/doc/3930/ir_material_for_fiscal_ym/61404/00.pdf",
+					"new_target":"_blank",
+					"title":"2019年7月期　第2四半期決算説明会資料",
+					"comment":"",
+					"type":"pdf",
+					"quarter":"2",
+					"thumbnail_link":"",
+					"text":"",
+					"page_num":"48",
+					"attachment_count":"0",
+					"attachment":[
+					]
+				}
+			]
+		},
+		{
+			"item_count":"4",
+			"fiscal_ym":"201807",
+			"item":[
+				{
+					"date":"2018/10/01 15:30:00",
+					"format_date":"2018/10/01",
+					"file_size":"189",
+					"link":"https://ssl4.eir-parts.net/doc/3930/ir_material_for_fiscal_ym/53982/00.pdf",
+					"new_target":"_blank",
+					"title":"2018年7月期　通期決算説明会  質疑応答(要旨)",
+					"comment":"",
+					"type":"pdf",
+					"quarter":"4",
+					"thumbnail_link":"",
+					"text":"",
+					"page_num":"3",
+					"attachment_count":"0",
+					"attachment":[
+					]
+				},
+				{
+					"date":"2018/09/25 14:56:00",
+					"format_date":"2018/09/25",
+					"file_size":"2,565",
+					"link":"https://ssl4.eir-parts.net/doc/3930/ir_material_for_fiscal_ym/53692/00.pdf",
+					"new_target":"_blank",
+					"title":"2018年7月期　通期決算説明会資料",
+					"comment":"",
+					"type":"pdf",
+					"quarter":"4",
+					"thumbnail_link":"",
+					"text":"",
+					"page_num":"50",
+					"attachment_count":"0",
+					"attachment":[
+					]
+				},
+				{
+					"date":"2018/03/28 15:30:00",
+					"format_date":"2018/03/28",
+					"file_size":"193",
+					"link":"https://ssl4.eir-parts.net/doc/3930/ir_material_for_fiscal_ym/47136/00.pdf",
+					"new_target":"_blank",
+					"title":"2018年7月期　第2四半期決算説明会  質疑応答(要旨)",
+					"comment":"",
+					"type":"pdf",
+					"quarter":"2",
+					"thumbnail_link":"",
+					"text":"",
+					"page_num":"2",
+					"attachment_count":"0",
+					"attachment":[
+					]
+				},
+				{
+					"date":"2018/03/20 15:30:00",
+					"format_date":"2018/03/20",
+					"file_size":"2,711",
+					"link":"https://ssl4.eir-parts.net/doc/3930/ir_material_for_fiscal_ym/46927/00.pdf",
+					"new_target":"_blank",
+					"title":"2018年7月期　第2四半期決算説明会資料",
+					"comment":"",
+					"type":"pdf",
+					"quarter":"2",
+					"thumbnail_link":"",
+					"text":"",
+					"page_num":"47",
+					"attachment_count":"0",
+					"attachment":[
+					]
+				}
+			]
+		},
+		{
+			"item_count":"4",
+			"fiscal_ym":"201707",
+			"item":[
+				{
+					"date":"2017/10/03 15:30:00",
+					"format_date":"2017/10/03",
+					"file_size":"413",
+					"link":"https://ssl4.eir-parts.net/doc/3930/ir_material_for_fiscal_ym/41017/00.pdf",
+					"new_target":"_blank",
+					"title":"2017年7月期　通期決算説明会  質疑応答(要旨)",
+					"comment":"",
+					"type":"pdf",
+					"quarter":"4",
+					"thumbnail_link":"",
+					"text":"",
+					"page_num":"4",
+					"attachment_count":"0",
+					"attachment":[
+					]
+				},
+				{
+					"date":"2017/09/27 15:30:00",
+					"format_date":"2017/09/27",
+					"file_size":"2,907",
+					"link":"https://ssl4.eir-parts.net/doc/3930/ir_material_for_fiscal_ym/40889/00.pdf",
+					"new_target":"_blank",
+					"title":"2017年7月期　通期決算説明会資料",
+					"comment":"",
+					"type":"pdf",
+					"quarter":"4",
+					"thumbnail_link":"",
+					"text":"",
+					"page_num":"52",
+					"attachment_count":"0",
+					"attachment":[
+					]
+				},
+				{
+					"date":"2017/03/23 15:30:00",
+					"format_date":"2017/03/23",
+					"file_size":"393",
+					"link":"https://ssl4.eir-parts.net/doc/3930/ir_material_for_fiscal_ym/34877/00.pdf",
+					"new_target":"_blank",
+					"title":"2017年7月期　第2四半期決算説明会  質疑応答(要旨)",
+					"comment":"",
+					"type":"pdf",
+					"quarter":"2",
+					"thumbnail_link":"",
+					"text":"",
+					"page_num":"3",
+					"attachment_count":"0",
+					"attachment":[
+					]
+				},
+				{
+					"date":"2017/03/16 15:30:00",
+					"format_date":"2017/03/16",
+					"file_size":"2,481",
+					"link":"https://ssl4.eir-parts.net/doc/3930/ir_material_for_fiscal_ym/34316/00.pdf",
+					"new_target":"_blank",
+					"title":"2017年7月期　第2四半期決算説明会資料",
+					"comment":"",
+					"type":"pdf",
+					"quarter":"2",
+					"thumbnail_link":"",
+					"text":"",
+					"page_num":"45",
+					"attachment_count":"0",
+					"attachment":[
+					]
+				}
+			]
+		},
+		{
+			"item_count":"2",
+			"fiscal_ym":"201607",
+			"item":[
+				{
+					"date":"2016/10/07 15:30:00",
+					"format_date":"2016/10/07",
+					"file_size":"165",
+					"link":"https://ssl4.eir-parts.net/doc/3930/ir_material_for_fiscal_ym/28627/00.pdf",
+					"new_target":"_blank",
+					"title":"2016年7月期 決算説明会資料  質疑応答",
+					"comment":"",
+					"type":"pdf",
+					"quarter":"9",
+					"thumbnail_link":"",
+					"text":"",
+					"page_num":"3",
+					"attachment_count":"0",
+					"attachment":[
+					]
+				},
+				{
+					"date":"2016/09/30 16:30:00",
+					"format_date":"2016/09/30",
+					"file_size":"2,936",
+					"link":"https://ssl4.eir-parts.net/doc/3930/ir_material_for_fiscal_ym/28477/00.pdf",
+					"new_target":"_blank",
+					"title":"2016年7月期 決算説明会資料 ",
+					"comment":"",
+					"type":"pdf",
+					"quarter":"4",
+					"thumbnail_link":"",
+					"text":"",
+					"page_num":"32",
+					"attachment_count":"0",
+					"attachment":[
+					]
+				}
+			]
+		}
+	]
+}
+);

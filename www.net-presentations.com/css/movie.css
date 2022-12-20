@@ -1,0 +1,176 @@
+*{
+	box-sizing:border-box;
+}
+
+
+body {
+	word-break: break-all;
+	background-color: #ffffff;
+	color: #494949;
+	margin: 0px;
+	font-family: 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro','Avenir','Helvetica Neue','Helvetica','Arial','Hiragino Sans','ヒラギノ角ゴシック','メイリオ', Meiryo,'ＭＳ Ｐゴシック','MS PGothic',sans-serif;
+	box-sizing; border-box;
+}
+
+a {
+	text-decoration:none;
+	color: #494949;
+}
+
+
+form {
+	margin: 0px;
+	padding: 0px;
+}
+
+table {
+	border-spacing: unset;
+}
+
+.screen {
+	padding: 5px;
+}
+
+.container {
+	margin: 0px auto; 
+	padding: 0px;
+	width: 1000px;
+}
+
+.head-title {
+	padding-right: 10px;
+	text-shadow: 1px 1px 0 rgba(0,0,0,.1);	
+}
+
+.movie_title {
+	font-size: 18px;
+	font-weight: bold;
+	color: #000000;
+}
+
+/*.movie_caption {
+	width: 310px;
+	font-size: 22px;
+	font-weight: bold;
+	color: #ffffff;
+	background-color: #888888;
+	margin-top: 5px;
+	padding: 5px;
+	border-radius: 5px;
+	line-height: 50px;
+}*/
+
+.movie_caption  {
+	width: 320px;
+	height: auto;
+	text-align: center;
+	color: #494949;
+	background: #f4f4f4;
+	border: solid 5px #dddddd;
+	/*border-bottom: solid 3px #dddddd;*/
+	border-radius: 5px;
+	margin-top: 5px;
+}
+
+#movie_caption  {
+	display: table-cell;
+    	text-align: center;
+    	vertical-align: middle;
+}
+
+.link_list {
+	margin-top: 5px;
+	width: 300px;
+	height: 100px;
+	overflow: scroll;
+	border: solid 1px #fff;
+	padding: 10px;
+	font-size: 10px;
+}
+
+.link_list a:hover{
+	text-decoration: underline;
+}
+
+.paper_list {
+	margin-top: 5px;
+	width: 320px;
+	height: 215px;
+	border: solid 1px #666666;
+	font-size: 10px;
+	line-height: 15px;
+	overflow: scroll;
+}
+
+.navigation {
+	width: 600px;
+	height: 53px;
+	background-color: #dddddd;
+	text-align: right;
+	padding: 5px;
+	border-radius: 5px;
+}
+
+
+.caution {
+	margin-top: 5px;
+	width: 600px;
+	height: 35px;
+	background-color: #494949;
+	font-size: 14px;
+	font-weight: bold;
+	color: #ffffff;
+	line-height:35px;
+	padding-left:10px;
+	border-radius: 5px 5px 0 0;
+}
+
+.message {
+	padding: 5px;
+	width: 600px;
+	font-size: 12px;
+	font-weight: normal;
+	color: #666666;
+	border: solid 1px #aaaaaa;
+	overflow: auto;
+	line-height: 18px;
+}
+
+.movie_main {
+	padding-left: 5px;
+}
+
+
+.page_list {
+	width: 300px;
+	font-size: 12px;
+	float: left;
+	line-height: 20px;
+}
+
+
+
+.page_list::-webkit-scrollbar {
+	background: transparent;
+	overflow: visible;
+	height: 7px;
+	width: 13px;
+	border: solid 1px #ffffff;
+}
+
+.scrollarea {
+	width: 20px;
+	height: 240px;
+	border-top: solid 1px #aaaaaa;
+	border-bottom: solid 1px #aaaaaa;
+	border-right: solid 1px #aaaaaa;
+	float: left;
+	margin-top: 10px;
+}
+
+.scrollbar {
+	width: 10px;
+	height: 50px;
+	background-color: #aaaaaa;
+	position: relative;
+}
